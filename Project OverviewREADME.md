@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project is a fun, interactive dashboard inspired by the classic game Street Fighter. While it’s not a traditional business-driven dashboard, it highlights how creative datasets and interactive features can be used to build engaging visual experiences.
 The idea was sparked by nostalgia — Street Fighter was one of my favorite games growing up, especially at the laundromat with friends. I recreated the experience by showcasing character stats and info in an interactive way, just like navigating through a video game menu.
 
@@ -23,6 +24,7 @@ Designing interactive dashboards with a user-friendly interface
 Thinking creatively beyond corporate data projects
 
 📷 Screenshots
+<img width="1492" height="835" alt="image" src="https://github.com/user-attachments/assets/98b3d6ef-a82d-443c-bee0-173921fae166" />
 
 💭 Reflection
 Not every project has to be corporate or strictly analytical — sometimes, passion projects are the best way to push creativity, learn new tools, and have fun with data.
